@@ -2,7 +2,7 @@
 
 *"Finally, a programming language that matches your personality!"*
 
-SavageScript is a programming language built with C++ and LLVM. It features a lexer, parser, and AST-based code generator that compiles sarcastically-written source code (like genius: show 42) into LLVM IR, then runs it via LLVM’s JIT. The project isn’t just about learning compiler design—it’s about being insulted by your own compiler while you do it.
+SavageScript is a programming language built with C++ and LLVM. It features a lexer, parser, and AST-based code generator that compiles sarcastically-written source code into LLVM IR, then runs it via LLVM’s JIT. The project isn’t just about learning compiler design, it’s about being insulted by your own compiler while you do it.
 ## Building the Compiler
 
 ### Prerequisites
